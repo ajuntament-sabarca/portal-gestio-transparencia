@@ -11,8 +11,16 @@ El frontend i el backend de l'aplicació està basat en llenguatge de programaci
 
 ## Configuració per desenvolupament i tests
 
-Prerequisits: Apache2, HTML5, Php5 (o superior), Javascript i Mysql.
-Connexió a la BD: Localhost.
-Base de dades: S'ajunta un arxiu .sql d'una Base de dades buida.
+**Prerequisits:** Apache2, HTML5, Php5 (o superior), Javascript i Mysql.
+
+**Connexió a la BD:** Localhost.
+
+**Base de dades:** S'ajunta un arxiu .sql d'una Base de dades buida.
+
+## Accés a l'aplicació
+
+**user:** administrador
+
+ **pass:** 12345 (Codificat en md5)
 
 13/05/2016 - Joan Hernández
