@@ -26,4 +26,4 @@ El frontend i el backend de l'aplicació està basat en llenguatge de programaci
 
 
 
-                                          13/05/2016 - Joan Hernández
+                                              13/05/2016 - Joan Hernández
