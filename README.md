@@ -21,7 +21,15 @@ El frontend i el backend de l'aplicació està basat en llenguatge de programaci
 
 **user:** administrador
 
- **pass:** 12345 (Codificat en md5)
+**pass:** 12345 (Codificat en md5)
+ 
+## Llicencia / License
+
+L'Ajuntament de Sant Andreu de la Barca, Posa a disposició d’usuaris, desenvolupadors i comunitat en general l’aplicació denominada “Portal de Gestió de Transparència” sota Llicència Pública de la Unió Europea “European Union Public License – EUPL”. Aquesta llicència, desenvolupada en el si de la Unió Europea, neix amb la intenció de ser llicència sota la qual s’alliberen els programes i aplicacions desenvolupades per l’Administració Pública i amb la característica específica de ser compatible amb altres llicencies denominades lliures, com la GNU General Public License (GNU/GPL). Aquestes característiques doten, a les aplicacions alliberades, de major seguretat jurídica i fomenten la interoperabilitat dels serveis de l’Administració Electrònica.
+
+
+Que el codi d’aquesta aplicació sota llicència oberta EUPL 1.1 (European Union Public License 1.1), significa que es pot reutilitzar, modificar i adaptar a les necessitats de forma totalment lliure. Si s’utilitza el codi, a mode de reconeixement a l’Ajuntament de Sant Andreu de la Barca, incloeix en el teu projecte el nostre logotip a la capçalera o en el peu de pàgina, seria d’agrair.
+
 
 
 
