@@ -23,4 +23,7 @@ El frontend i el backend de l'aplicació està basat en llenguatge de programaci
 
  **pass:** 12345 (Codificat en md5)
 
+
+
+
 13/05/2016 - Joan Hernández
