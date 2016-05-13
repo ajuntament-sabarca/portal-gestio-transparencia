@@ -7,11 +7,11 @@ El desenvolupament d'aquesta aplicació es va començar el dia [1 de Març del 2
 
 ## Tecnologia
 
-El frontend i el backend de l'aplicació està basat en llenguatge de programació: HTML5 - CSS3 - JS - Jquery. L'eina utilitzada fa ús de la tecnología Bootstrap d' (http://startbootstrap.com/)
+El frontend i el backend de l'aplicació està basat en llenguatge de programació: HTML5 - CSS3 - JS - Jquery - PHP. L'eina utilitzada fa ús de la tecnología Bootstrap d' (http://startbootstrap.com/). Per Base de Dades es fa servir Mysql.
 
 ## Configuració per desenvolupament i tests
 
-**Prerequisits:** Apache2, HTML5, Php5 (o superior), Javascript i Mysql.
+**Prerequisits:** Apache2, HTML5, Php5 (o superior), Javascript i Mysql 5.5 (o superior).
 
 **Connexió a la BD:** Localhost.
 
