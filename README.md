@@ -15,7 +15,7 @@ El frontend i el backend de l'aplicació està basat en llenguatge de programaci
 
 **Connexió a la BD:** Localhost.
 
-**Base de dades:** S'ajunta un arxiu .sql d'una Base de dades buida.
+**Base de dades:** S'ajunta un arxiu .sql d'una Base de dades buida al directori BD.
 
 ## Accés a l'aplicació
 
